@@ -3,7 +3,7 @@
     background-color: yellow;
 }
 
-.lesson-four-task-two h1:hover {
+.lesson-four-task-two a:hover {
     color: green;
 }
 
@@ -19,7 +19,7 @@
     background-color: blue;
 }
 
-.lesson-four-task-six .btn:focus {
+.lesson-four-task-six button:focus {
     color: purple;
     background-color: purple;
 }
