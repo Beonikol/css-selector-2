@@ -20,8 +20,8 @@
 }
 
 .lesson-four-task-six button:focus {
-    color: purple;
-    background-color: purple;
+    color: orange;
+    background-color: orange;
 }
 
 #target:target {
